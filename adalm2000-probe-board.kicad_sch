@@ -1542,7 +1542,7 @@
     (property "Value" "ADALM200 INPUT" (id 1) (at 133.35 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_IDC:IDC-Header_2x15_P2.54mm_Horizontal" (id 2) (at 153.67 59.69 0)
+    (property "Footprint" "Jonnes Library:PinSocket_2x15_P2.54mm_Horizontal" (id 2) (at 153.67 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 59.69 0)
@@ -1908,7 +1908,7 @@
       (reference "C2") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/01e8a7f1-e668-442f-9994-925c867ee32b"
-      (reference "J1") (unit 1) (value "ADALM200 INPUT") (footprint "Connector_IDC:IDC-Header_2x15_P2.54mm_Horizontal")
+      (reference "J1") (unit 1) (value "ADALM200 INPUT") (footprint "Jonnes Library:PinSocket_2x15_P2.54mm_Horizontal")
     )
     (path "/d2fc562b-36d8-46a5-80f9-e350584d36cd"
       (reference "J2") (unit 1) (value "MODULE OUTPUT") (footprint "Jonnes Library:IDC-Header_2x15_P2.54mm_Horizontal - Pin 1 on left from front view")
